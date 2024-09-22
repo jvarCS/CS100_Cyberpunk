@@ -1,0 +1,13 @@
+bin/
+googletest
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+lib/
+CMakeLists.txt
+source/{CMAKE_BINARY_DIR}/
+CMakeLists.txt.in
+googletest-build/
+googletest-download/
+googletest-src/
